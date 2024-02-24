@@ -1,4 +1,5 @@
-from chatterbot import chatterbot
+from chatterbot import ChatBot
+
 
 chatbot = ChatBot("Chatpot")
 
