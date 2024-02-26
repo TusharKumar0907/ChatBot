@@ -34,13 +34,13 @@ Want to know more about course type  < more about course name >
 STOP
 more about btech in computer Engineering
 what do you want to know ?
-1) Eligibility Criteria for btech in computer Engineering
-2) Mode of admission for btech in computer Engineering
-3) Placement stats for btech in computer Engineering
-4) Closing and Opening Rank for btech in computer Engineering
-5) Total Seats for btech in computer Engineering
-6) Duration for btech in computer Engineering
-type any of above option 
+1) Eligibility Criteria ( Btech Computer Engineering )
+2) Mode of admission ( Btech Computer Engineering )
+3) Placement stats ( Btech Computer Engineering )
+4) Closing and Opening Rank ( Btech Computer Engineering )
+5) Total Seats ( Btech Computer Engineering )
+6) Duration ( Btech Computer Engineering )
+type any of above option < for computer engineering >
 STOP
 total seats for computer engineering 
 120
