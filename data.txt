@@ -1,19 +1,20 @@
 courses offered
 UG
-1) Bachelor of technology
-2) Bachelor of Computer Applications
-3) Bachelor of Science 
-4) Bachelor of Social Work
-5) Bachelor of Arts
-6) Bachelor of Commerce
-7) Bachelor of Vocational 
+1) Bachelor of technology (Btech)
+2) Bachelor of Computer Applications (BCA)
+3) Bachelor of Science (BSC)
+4) Bachelor of Social Work (BSW)
+5) Bachelor of Arts (BA)
+6) Bachelor of Commerce (BCOM)
+7) Bachelor of Vocational (Bvoc)
 PG
-1) Master of technology
-2) Master of Business Administration
-3) Master of Computer Application
-4) Master of Science 
-5) Master of Arts
+1) Master of technology (Mtech)
+2) Master of Business Administration (MBA)
+3) Master of Computer Application (MCA)
+4) Master of Science (MSC)
+5) Master of Arts (MA)
 Diploma Courses
+want to know more about course type < shortform of course >
 STOP
 btech
 1) Btech in Computer Engineering
@@ -27,5 +28,63 @@ btech
 9) Btech in (Indian Language Hindi) Mechanical Engineering
 10)Btech in Electronics Engineering (Specialization in IoT)
 11)Btech in Electronics & Computer Engineering
-12)Btech in Environmental Engineering  
+12)Btech in Environmental Engineering 
+13)Btech (Indian Language-Hindi) – Computer Engineering
+Want to know more about course type  < more about course name > 
+STOP
+more about btech in computer Engineering
+what do you want to know ?
+1) Eligibility Criteria for btech in computer Engineering
+2) Mode of admission for btech in computer Engineering
+3) Placement stats for btech in computer Engineering
+4) Closing and Opening Rank for btech in computer Engineering
+5) Total Seats for btech in computer Engineering
+6) Duration for btech in computer Engineering
+type any of above option 
+STOP
+total seats for computer engineering 
+120
+STOP
+duration for computer engineering  
+4 years
+STOP
+eligibility criteria for computer engineering 
+Passed 10+2 examination with Physics/ Mathematics/Chemistry/
+Computer Science/ Electronics/ Information
+Technology/ Biology/ Informatics Practices/ Biotechnology/
+Technical Vocational subject/ Agriculture/ Engineering
+Graphics/ Business Studies/ Entrepreneurship Obtained at
+least 45% marks (40% marks in case of candidates belonging
+to reserved category) in the above subjects taken together.
+next 1
+For Lateral Entry :
+Passed Minimum 3-years / 2-Years (Lateral Entry) Diploma
+examination with at least 45% marks (40% marks in case of
+candidates belonging to reserved category).
+OR
+Passed B.Sc. Degree from a recognized University as defined
+by UGC, with at least 45% marks (40% marks in case of
+candidates belonging to reserved category) and passed 10+2
+examination with Mathematics as a subject.
+STOP
+mode of admission for computer engineering
+Admission will be made
+through Haryana State
+Technical Education
+Society (HSTES)
+Counseling or according
+to instructions/
+guidelines issued by
+HSTES.
+STOP
+placement stats for computer engineering
+Total Students 	                   155
+Eligible & Interested Students 	   149
+No. of offers	                   124
+Double offers	                     5
+No. of Company Visited	            60
+Placement % 	                  83.22
+Min.Package (LPA)	                 4
+Max.Package (LPA)	                45
+Average (LPA)                     13.37
 STOP
