@@ -1,0 +1,31 @@
+courses offered
+UG
+1) Bachelor of technology
+2) Bachelor of Computer Applications
+3) Bachelor of Science 
+4) Bachelor of Social Work
+5) Bachelor of Arts
+6) Bachelor of Commerce
+7) Bachelor of Vocational 
+PG
+1) Master of technology
+2) Master of Business Administration
+3) Master of Computer Application
+4) Master of Science 
+5) Master of Arts
+Diploma Courses
+STOP
+btech
+1) Btech in Computer Engineering
+2) Btech in Computer Engineering (data Science)
+3) Btech in Information Technology
+4) Btech in Mechanical Engineering
+5) Btech in Civil Engineering
+6) Btech in Electronics and Communication Engineering
+7) Btech in Electrical Engineering
+8) Btech in Robotics and Artificial Intelligence
+9) Btech in (Indian Language Hindi) Mechanical Engineering
+10)Btech in Electronics Engineering (Specialization in IoT)
+11)Btech in Electronics & Computer Engineering
+12)Btech in Environmental Engineering  
+STOP
