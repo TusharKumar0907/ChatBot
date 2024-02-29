@@ -19,7 +19,7 @@ def get_responses_until_word(temp, user_input):
         if temp in response.text:  
             break
         if next in response.text:
-            print("")
+            print("")bt
         else:
             print(response)
 
